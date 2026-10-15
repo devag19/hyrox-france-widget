@@ -1,1 +1,42 @@
-{"updated_at":null,"source":"https://hyroxfrance.com/fr/trouve-ta-course/?filter_region=france","events":[],"failed_pages":[]}
+{
+  "updated_at": "2026-10-15T11:32:44.677394+00:00",
+  "source": "https://hyroxfrance.com/fr/trouve-ta-course/?filter_region=france",
+  "events": [
+    {
+      "name": "TRAINSWEATEAT HYROX NICE",
+      "url": "https://hyroxfrance.com/fr/event/trainsweateat-hyrox-nice/",
+      "status": "unknown",
+      "opening_at": null,
+      "opening_day": null
+    },
+    {
+      "name": "FITNESS PARK HYROX PARIS",
+      "url": "https://hyroxfrance.com/fr/event/fitness-park-hyrox-paris/",
+      "status": "unknown",
+      "opening_at": null,
+      "opening_day": null
+    },
+    {
+      "name": "HYROX TOULOUSE",
+      "url": "https://hyroxfrance.com/fr/event/hyrox-toulouse/",
+      "status": "soon",
+      "opening_at": null,
+      "opening_day": null
+    },
+    {
+      "name": "MAYBELLINE HYROX PARIS GRAND PALAIS",
+      "url": "https://hyroxfrance.com/fr/event/maybelline-hyrox-paris-grand-palais/",
+      "status": "soon",
+      "opening_at": null,
+      "opening_day": null
+    },
+    {
+      "name": "HYROX LYON",
+      "url": "https://hyroxfrance.com/fr/event/hyrox-lyon/",
+      "status": "soon",
+      "opening_at": null,
+      "opening_day": null
+    }
+  ],
+  "failed_pages": []
+}
